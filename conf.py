@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'course.bioinf'
+project = 'course.dataScience'
 copyright = '2021, changlabtw'
 author = 'changlabtw'
 
