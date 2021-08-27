@@ -1,2 +1,2 @@
-# course.bioinf
-bioinformatics course
+# course.dataScience
+data science course
