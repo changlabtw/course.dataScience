@@ -15,3 +15,5 @@ topic 7. Exploring/managing data
     2. Cha 7. Exploratory Data Analysis
     3. Cha 8. Workflow: projects
     4. Cha 11. Data import
+
+:download:`topic07_data.pptx <../ppt/topic07_data.pptx>`

@@ -8,6 +8,7 @@ topic 1. Introduction
   * **why choose R programming language?**
   * **integrated development environment for R : RStudio**
 
+
 * ​Supporting Materials
   
   1. PSDR: Chapter 1, 2, appendix A​
