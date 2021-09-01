@@ -1,9 +1,10 @@
-topic 04. How to perform evaluation?
+topic 4. How to perform evaluation?
 ==========================================
 | **Bias-variance decomposition**
 | **Overfitting**
 | **Cross-validation**
 | **Bootstrap and jackknife sampling**
+
 * Supporting Materials
   
   1. ​PSDR: Chapter 6.2

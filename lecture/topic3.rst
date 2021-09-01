@@ -1,4 +1,4 @@
-topic 03. How to evaluate output?
+topic 3. How to evaluate output?
 ==========================================
 | **Specificity, sensitivity, recall, F-score**
 | **Receiver operating characteristic curve, AUC**
