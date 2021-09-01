@@ -1,10 +1,9 @@
-topic 9. Protein secondary structure prediction
+topic 9. Supervised learning (1/6)
 ==========================================
-| **RCSB Protein Data Bank (PDB)**
-| **​Neural network approach**
-| **Knowledge-based approach**
+| **Memorization methods**
+
 * Supporting Materials
 
-  1. `PDB <http://www.rcsb.org/pdb/home/home.do>`_
-  2. HYPROSP: `Wu, K.-P., Lin, H.-N., Chang, J.-M., Sung, T.-Y. & Hsu, W.-L. HYPROSP: a hybrid protein secondary structure prediction algorithm—a knowledge-based approach. Nucleic Acids Research 32, 5059–5065 (2004). <http://www.ncbi.nlm.nih.gov/pubmed/15448186>`_
-  3. HYPROSPII: `Lin, H.-N., Chang, J.-M., Wu, K.-P., Sung, T.-Y. & Hsu, W.-L. HYPROSP II-A knowledge-based hybrid method for protein secondary structure prediction based on local prediction confidence. Bioinformatics 21, 3227–3233 (2005).​ <http://www.ncbi.nlm.nih.gov/pubmed/15932901>`_
+  1. PSDR: Chapter 6
+  2. PSDR: Chapter 7.1
+  3. ISLR: Chapter 3

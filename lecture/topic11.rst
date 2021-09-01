@@ -1,8 +1,8 @@
-topic 11. Genomics
+topic 11. ​Supervised learning (3/6)
 ==========================================
-| **What is gene and genome?**
-| **The Human Genome Project**
-| **Genome Assembly**
+| **Logistic regression**
+
 * Supporting Materials
 
-  1. `The Assemblathon <http://assemblathon.org/>`_
+  1. PSDR: Chapter 9.1​
+  2. ISLR: Chapter 7

@@ -1,13 +1,17 @@
-topic 07. Phylogenetic tree 1/2
+topic 7. Exploring/managing data
 ==========================================
-| **Introduction to evolution**
-| **​Probabilistic and ideal-data models**
-| **Distance-based methods: UPGMA, NJ**
-| **​Another issue: huge amount data**
+| **Probabilistic and ideal-data models**
+| **Character/parsimony-based methods**
+| **Workflow: scripts**
+| **Exploratory Data Analysis**
+| **Workflow: projects Data import**
 
 * Supporting Materials
 
-  Databases of rRNA sequences and associated software summary by `Manolo Gouy <https://lbbe.univ-lyon1.fr/-Gouy-Manolo-.html?lang=en>`_
+  * PSDR: Chapter 3, 4​
+  * R for Data Science
 
-  1. `The rRNA WWW Server <http://rrna.uia.ac.be/>`_  by Antwerp, Belgium
-  2. `The Ribosomal Database Project <http://rdp.cme.msu.edu/html/>`_ by Michigan State University
+    1. Cha 6. Workflow: scripts
+    2. Cha 7. Exploratory Data Analysis
+    3. Cha 8. Workflow: projects
+    4. Cha 11. Data import

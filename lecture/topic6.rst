@@ -1,10 +1,10 @@
-topic 06. Sequence alignment post-process
+topic 6. Visualization
 ==========================================
-| **Uncertainty and its effect on downstream analysis**
-| **​How to detect uncertainty**
-| **​How to score MSA?**
-| **​Another issue: huge amount data**
+| **charts, graphs, networks, maps**
+| **​Interactive visualizations - Shiny app**
+
 * Supporting Materials
 
-  1. `TCS web server <http://tcoffee.crg.cat/tcs>`_
-  2. TCS: `Chang, J.-M. M., Di Tommaso, P. & Notredame, C. TCS: a new multiple sequence alignment reliability measure to estimate alignment accuracy and improve phylogenetic tree reconstruction.Mol. Biol. Evol. 31, 1625–37 (2014). <http://www.ncbi.nlm.nih.gov/pubmed/24694831>`_
+  1. `Simple Graphs with R <http://www.harding.edu/fmccown/r/#autosdatafile>`_
+  2. `Basic Graphs <http://www.statmethods.net/graphs/index.html1>`_ by Quick R
+  3. `Understanding CCDF <https://www.youtube.com/watch?v=-7U82ZzIbUs>`_ :  Probability density function (PDF), Cumulative distribution function (CDF), Complementary cumulative distribution function (CCDF)
