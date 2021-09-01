@@ -12,4 +12,4 @@ topic 1. Introduction
   
   1. PSDR: Chapter 1, 2, appendix A​
 
-:ref:`../ppt/topic01_intro2datascience.pptx`
+:download:`topic01_intro2datascience.pptx <../ppt/topic01_intro2datascience.pptx>`
