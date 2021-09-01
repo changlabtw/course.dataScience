@@ -6,6 +6,9 @@ Reference Books
   2. 2019  ISBN 9781617295874
   3. `Examples <https://github.com/WinVector/PDSwR2>`_
   4. `https://win-vector.com/practical-data-science-with-r/ <https://win-vector.com/practical-data-science-with-r/>`_
+  
+  .. image:: image/pdsr.png
+  .. image:: image/manning.png
 
 * **ISLR**, `An Introduction to Statistical Learning with Applications in R <http://www-bcf.usc.edu/~gareth/ISL/>`_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * **RDS** `R for Data Science: Visualize, Model, Transform, Tidy, and Import Data <https://www.amazon.com/Data-Science-Visualize-Model-Transform/dp/1491910399>`_ by Hadley Wickham  & Garrett Grolemund (1st Edition)
