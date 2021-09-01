@@ -9,4 +9,5 @@ topic 10. Supervised learning (2/6)
   4. `Linear Regression and Correlation <https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(OpenStax)/12%3A_Linear_Regression_and_Correlation>`_ @ LibreTexts
 
 :download:`topic10_supervised2_linearregression.pptx <../ppt/topic10_supervised2_linearregression.pptx>`
+
 :download:`code10.sup2.linreg.zip <../code/code10.sup2.linreg.zip>`

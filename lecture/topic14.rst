@@ -11,4 +11,5 @@ topic 14. Supervised learning (6/6)
   4. `Talks <https://www.csie.ntu.edu.tw/~cjlin/talks.html>`_ about Machine Learning by Chih-Jen Lin
 
 :download:`topic14_supervised6_svm.pptx <../ppt/topic14_supervised6_svm.pptx>`
+
 :download:`code14.sup6.svm.zip <../code/code14.sup6.svm.zip>`  
