@@ -8,5 +8,3 @@ topic 01. Introduction
   * **integrated development environment for R : RStudio**
 * ​Supporting Materials
   1. PSDR: Chapter 1, 2, appendix A​
-
-`topic01_intro2datascience.pptx <../ppt/topic01_intro2datascience.pptx>`

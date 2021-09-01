@@ -1,11 +1,9 @@
-topic 03. Pairwise sequence alignment
+topic 03. How to evaluate output?
 ==========================================
-| **Local alignment**
-| **Affine Gap Penalties - The Gotoh Algorithm**
-| **Linear space algorithm**
-| **​BLAST**
-* Supporting Materials
+| **Specificity, sensitivity, recall, F-score**
+| **Receiver operating characteristic curve, AUC**
+| **Statistical significance : p-value, false discovery rate**
 
-  1. *`The Statistics of Sequence Similarity Scores <https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-1.html>`_
-  2. `NCBI BLAST server <http://blast.ncbi.nlm.nih.gov/Blast.cgi>`_
-  3. `BLAST <http://shop.oreilly.com/product/9780596002992.do>`_ by O'Reilly Media
+* Supporting Materials
+  1. PSDR: Chapter 5
+  2. `ROCR package <https://ipa-tys.github.io/ROCR/>`_ - Visualizing classifier performance in R

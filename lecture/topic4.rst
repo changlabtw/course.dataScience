@@ -1,8 +1,11 @@
-topic 04. Multiple Sequence Alignment
+topic 04. How to perform evaluation?
 ==========================================
-| **Advance BLAST**
-| **​PRESENTATION1: The complexity of MSA**
+| **Bias-variance decomposition**
+| **Overfitting**
+| **Cross-validation**
+| **Bootstrap and jackknife sampling**
 * Supporting Materials
-
-  1. *Wang, L. & Jiang, T. `On the complexity of multiple sequence alignment. <https://www.ncbi.nlm.nih.gov/pubmed/8790475>`_ J. Comput. Biol. 1, 337–48 (1994).
-  2. `T-Coffee web server​​ <http://tcoffee.crg.cat/>`_
+  1. ​PSDR: Chapter 6.2
+  2. `Lecture 12: Bias-Variance Tradeoff ​​<http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html>`_ by Kilian Weinberger
+  3. `Bias Variance Decomposition <https://www.youtube.com/watch?v=zUJbRO0Wavo>`_ by Kilian Weinberger
+  4. `Where does the error come from? <https://www.youtube.com/watch?v=D_S6y0Jm6dQ>`_ by Hung-Yi Lee
