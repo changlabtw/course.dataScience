@@ -4,6 +4,7 @@ topic 1. Introduction
 | **What is data science? big data? deep learning?**
 | **Three components: data, modeling, evaluation​​**
 | **Data science platforms**
+
   * **why choose R programming language?**
   * **integrated development environment for R : RStudio**
 
