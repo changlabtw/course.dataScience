@@ -5,6 +5,7 @@ topic 04. How to perform evaluation?
 | **Cross-validation**
 | **Bootstrap and jackknife sampling**
 * Supporting Materials
+  
   1. ​PSDR: Chapter 6.2
   2. `Lecture 12: Bias-Variance Tradeoff ​​<http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html>`_ by Kilian Weinberger
   3. `Bias Variance Decomposition <https://www.youtube.com/watch?v=zUJbRO0Wavo>`_ by Kilian Weinberger
