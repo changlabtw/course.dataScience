@@ -6,7 +6,7 @@ Data Science 資料科學
 Course Description
 ==================
 
-Bioinformatics is an interdisciplinary and emerging field, which develops methods and software tools for understanding biological data. Being a Bioinformatician requires an integrated skill set, including computer science, statistics, mathematics, and engineering. This course will introduce students to this rapidly growing topic and equip them with some of its fundamental principles, related algorithms, and programming skill as well as useful tools.
+This course aims to introduce data science from a pragmatic, practice-oriented viewpoint. Students will learn concepts, R programming language and tools they need to deal with various facets of data science practice, including data integration, exploratory data analysis, predictive modeling, evaluation and effective visual communication. By the end of the course they will be able to apply data science techniques on their own research topics.
 
 
 =======
