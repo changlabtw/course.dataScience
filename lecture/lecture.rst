@@ -5,50 +5,58 @@ Introduction
    :maxdepth: 2
 
    topic1
+   topic2
 
-Sequence analysis
+Evaluattion
 ==========================================
 
 .. toctree::
    :maxdepth: 2
 
-   topic2
+   
    topic3
    topic4
-   topic5
-   topic6
 
-Phylogenetic tree
+Feature reduction
 ==========================================
 
 .. toctree::
    :maxdepth: 2
 
-   topic7
-   topic8
+   topic5.1
+   topic5.2
 
 
-Protein function prediction
+Visualization and Exploratory
 ==========================================
 
 .. toctree::
   :maxdepth: 2
 
-  topic9
-  topic10
+  topic6
+  topic7
 
 
-Genomics
+Unsupervised learning
+==========================================
+.. toctree::
+  :maxdepth: 2
+
+  topic8
+
+
+Supervised learning
 ==========================================
 
 .. toctree::
    :maxdepth: 2
 
+   topic9
+   topic10
    topic11
    topic12
    topic13
    topic14
-   topic15
 
 References and supplementaries
 ==========================================
@@ -56,5 +64,6 @@ References and supplementaries
 .. toctree::
    :maxdepth: 2
 
-   reference
-   supplemental
+   reference_book
+   additional_material
+   other_references
