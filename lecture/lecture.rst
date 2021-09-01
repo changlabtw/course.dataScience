@@ -7,7 +7,7 @@ Introduction
    topic1
    topic2
 
-Evaluattion
+Evaluation
 ==========================================
 
 .. toctree::
