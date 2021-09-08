@@ -2,10 +2,10 @@ Reference Books
 ==========================================
 * **PSDR**, `Practical Data Science with R. <http://pevsnerlab.kennedykrieger.org/php/?q=book3>`_  by Zumel, N. & Mount, J (Manning)  **Highly Recommend**
 
-  1. 2014 ISBN-10: 1617291560
-  2. 2019  ISBN 9781617295874
-  3. `Examples <https://github.com/WinVector/PDSwR2>`_
-  4. `https://win-vector.com/practical-data-science-with-r/ <https://win-vector.com/practical-data-science-with-r/>`_
+  1. 2019  ISBN 9781617295874
+  2. 2014 ISBN-10: 1617291560
+  3. `Code Examples <https://github.com/WinVector/PDSwR2>`_
+  4. `Book page from authors <https://win-vector.com/practical-data-science-with-r/>`_
   
   .. image:: image/pdsr.png
   .. image:: image/manning.png
