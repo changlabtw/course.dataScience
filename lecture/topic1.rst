@@ -11,5 +11,6 @@ topic 1. Introduction
 * ​Supporting Materials
   
   1. PSDR: Chapter 1, 2, appendix A​
+  2. `cheat sheet: Basic R <https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf>`_
 
 :download:`topic01_intro2datascience.pptx <../ppt/topic01_intro2datascience.pptx>`
