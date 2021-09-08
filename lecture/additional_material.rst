@@ -1,5 +1,9 @@
 Additional Material
 ==========================
+* cheat sheet
+
+  * `Basic R <https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf>`_
+  * RStudio
 * `Data Mining with R: Learning with Case Studies, by Torgo <http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/>`_
 * `An Introduction to Data Science, Version 3 <http://jsresearch.net/>`_ , by Stanton
 * `Machine Learning with R <http://www.packtpub.com/machine-learning-with-r/book>`_ by Lantz
