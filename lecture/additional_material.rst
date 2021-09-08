@@ -1,6 +1,6 @@
 Additional Material
 ==========================
-* cheat sheet
+* Cheat Sheet
 
   * `Basic R <https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf>`_
   * RStudio
