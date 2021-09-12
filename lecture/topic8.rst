@@ -6,6 +6,7 @@ topic 8. ​Unsupervised learning
 * Supporting Materials
 
   1. PSDR: Chapter 6, 8
+  2. `clustering <http://web.stanford.edu/class/bios221/book/Chap-Clustering.html>`_
 
 :download:`topic08_unsupervised.pptx <../ppt/topic08_unsupervised.pptx>`
 

@@ -3,7 +3,13 @@ Additional Material
 * Cheat Sheet
 
   * `Basic R <https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf>`_
-  * RStudio
+  * `RStudio <https://moodle.nccu.edu.tw/pluginfile.php/1013495/mod_resource/content/1/cheatSheet_Rstudio.pdf>`_
+  * `Git <https://moodle.nccu.edu.tw/pluginfile.php/1013500/mod_resource/content/1/cheatSheet_Git.pdf>`_
+  * `advanceR <https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf>`_
+  * `ggplot2 <https://moodle.nccu.edu.tw/pluginfile.php/1013523/mod_resource/content/1/cheatSheet_ggplot2.pdf>`_
+  * `Shiny <https://moodle.nccu.edu.tw/pluginfile.php/1013524/mod_resource/content/1/cheatSheet_RShiny.pdf>`_
+  * `RMarkdown <https://moodle.nccu.edu.tw/pluginfile.php/1013526/mod_resource/content/1/cheatSheet_RMarkdown.pdf>`_
+  * `machine learning <https://moodle.nccu.edu.tw/pluginfile.php/1013530/mod_resource/content/1/cheatSheet_machineLearning.pdf>`_
 * `Data Mining with R: Learning with Case Studies, by Torgo <http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/>`_
 * `An Introduction to Data Science, Version 3 <http://jsresearch.net/>`_ , by Stanton
 * `Machine Learning with R <http://www.packtpub.com/machine-learning-with-r/book>`_ by Lantz
