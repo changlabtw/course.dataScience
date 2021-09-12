@@ -11,6 +11,9 @@ topic 4. How to perform evaluation?
   2. `Lecture 12: Bias-Variance Tradeoff <http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html>`_ by Kilian Weinberger
   3. `Bias Variance Decomposition <https://www.youtube.com/watch?v=zUJbRO0Wavo>`_ by Kilian Weinberger
   4. `Where does the error come from? <https://www.youtube.com/watch?v=D_S6y0Jm6dQ>`_ by Hung-Yi Lee
+  5. `Bias Variance Decomposition -Cornell CS4780 SP17 <https://moodle.nccu.edu.tw/mod/url/view.php?id=353742>`_
+
+:download:`note04_biasVarianceDecomposition.pdf <../note/note04_biasVarianceDecomposition.pdf>`
 
 :download:`topic04_validation.pptx <../ppt/topic04_validation.pptx>`
 
