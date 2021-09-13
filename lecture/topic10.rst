@@ -11,3 +11,5 @@ topic 10. Supervised learning (2/6)
 :download:`topic10_supervised2_linearregression.pptx <../ppt/topic10_supervised2_linearregression.pptx>`
 
 :download:`code10.sup2.linreg.zip <../code/code10.sup2.linreg.zip>`
+
+:download:`note10_singleVariable_derivation.pdf <../note/note10_singleVariable_derivation.pdf>`

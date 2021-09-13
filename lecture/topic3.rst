@@ -9,8 +9,8 @@ topic 3. How to evaluate output?
   1. PSDR: Chapter 5
   2. `ROCR package <https://ipa-tys.github.io/ROCR/>`_ - Visualizing classifier performance in R
 
-:download:`note03_Rsquare-correlation.pdf <../note/note03_Rsquare-correlation.pdf>`
-
 :download:`topic03_measurement.pptx <../ppt/topic03_measurement.pptx>`
 
 :download:`code03.measure.zip <../code/code03.measure.zip>`
+
+:download:`note03_Rsquare-correlation.pdf <../note/note03_Rsquare-correlation.pdf>`

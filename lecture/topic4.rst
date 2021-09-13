@@ -13,8 +13,8 @@ topic 4. How to perform evaluation?
   4. `Where does the error come from? <https://www.youtube.com/watch?v=D_S6y0Jm6dQ>`_ by Hung-Yi Lee
   5. `Bias Variance Decomposition -Cornell CS4780 SP17 <https://www.youtube.com/watch?v=zUJbRO0Wavo&t=2441s>`_
 
-:download:`note04_biasVarianceDecomposition.pdf <../note/note04_biasVarianceDecomposition.pdf>`
-
 :download:`topic04_validation.pptx <../ppt/topic04_validation.pptx>`
 
 :download:`code04.validation.zip <../code/code04.validation.zip>`
+
+:download:`note04_biasVarianceDecomposition.pdf <../note/note04_biasVarianceDecomposition.pdf>`
