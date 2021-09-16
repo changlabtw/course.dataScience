@@ -14,7 +14,6 @@ topic 1. Introduction
   2. `cheat sheet: Basic R <https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf>`_
   3. `cheat sheet: RStudio <https://github.com/rstudio/cheatsheets/blob/master/rstudio-ide.pdf>`_
   4. `Rstudio 教學環境設計手冊 <https://moodle.nccu.edu.tw/pluginfile.php/1013496/mod_resource/content/1/Rstudio_%E6%95%99%E5%AD%B8%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88%E6%89%8B%E5%86%8A.pdf>`_
-  5. `資料科學與深度學習 磨課師課程 <https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=10&id=4548>`_
    
   * Git Reference
   
