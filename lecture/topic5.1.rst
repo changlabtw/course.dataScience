@@ -1,7 +1,7 @@
-topic 5.1 Feature reduction : selection/extraction
+topic 5.1 Feature extraction
 ====================================================
 | **Principal component analysis (PCA)**
-| **​Singular Value Decomposition (SVD)**
+| **Singular Value Decomposition (SVD)**
 
 * Supporting Materials
 
