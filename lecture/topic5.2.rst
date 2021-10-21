@@ -1,7 +1,7 @@
-topic 5.2 Feature reduction : selection/extraction
+topic 5.2 Advcanced feature extraction
 ====================================================
 | **Correspondence analysis (CA)**
-| **​Probabilistic latent semantic analysis**
+| **Probabilistic latent semantic analysis**
 
     * **maximum likelihood estimation**
     * **expectation–maximization algorithm**
