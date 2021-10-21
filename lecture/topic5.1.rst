@@ -16,4 +16,6 @@ topic 5.1 Feature extraction
 
 :download:`topic05_feature.pptx <../ppt/topic05_feature.pptx>`
 
+:download:`code05.feature.zip <../code/code05.feature.zip>`
+
 :download:`note05_PCA.pdf <../note/note05_PCA.pdf>`
