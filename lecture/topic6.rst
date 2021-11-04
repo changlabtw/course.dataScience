@@ -14,3 +14,5 @@ topic 6. Visualization
   7. `DataVisualization101 <https://moodle.nccu.edu.tw/pluginfile.php/1013525/mod_resource/content/1/DataVisualization101_HowtoDesignChartsGraphs.pdf>`_
 
 :download:`topic06_visualization.pptx <../ppt/topic06_visualization.pptx>`
+
+:download:`code06.visual.zip <../code/code06.visual.zip>`
