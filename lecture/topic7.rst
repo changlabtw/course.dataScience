@@ -18,3 +18,5 @@ topic 7. Exploring/managing data
   * `cheat sheet: RMarkdown <https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf>`_
 
 :download:`topic07_data.pptx <../ppt/topic07_data.pptx>`
+
+:download:`code07.feature.zip <../code/code07.data.zip>`
