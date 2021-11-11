@@ -1,7 +1,7 @@
 topic 5.2 Advcanced feature extraction
 ====================================================
-| **Correspondence analysis (CA)**
-| **Probabilistic latent semantic analysis**
+| **Correspondence Analysis (CA)**
+| **Probabilistic Latent Semantic Analysis (PLSA)**
 
     * **maximum likelihood estimation**
     * **expectation–maximization algorithm**
