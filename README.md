@@ -1,2 +1,2 @@
-# course.dataScience
-data science course
+# data science @ NCCU
+https://coursedatascienechanglabtw.readthedocs.io/
