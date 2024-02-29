@@ -1,6 +1,8 @@
-topic 2. Documentation and deployment of your code
+topic 2. Work with R & Documentation and deployment of your code
 ======================================================
-| **Version control system by Github**
+| **Workflow: scripts**
+| **Workflow: projects Data import**
+| **Documentation: R Markdown**
 
 * Supporting Materials
 
