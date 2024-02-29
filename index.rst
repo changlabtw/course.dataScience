@@ -20,5 +20,5 @@ Lecture
 =======
 Notice
 =======
-The slides are prepared mainly based on the reference books. Please follow the original license if you reproduce.
+The slides are prepared mainly based on the reference books. Please follow their original license if you reproduce.
 Any questions, please contact `Jia-Ming Chang <http://changlabtw.com/>`_.
